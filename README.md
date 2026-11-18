@@ -16,7 +16,13 @@ Consulta [LEEME.md](LEEME.md) para conocer el modo demo y los requisitos por pla
 
 La suite verifica geografía, apariciones, radar, motor AR, captura de personajes, puntuación, persistencia y ViewModel. Resultado: **43 pruebas aprobadas**.
 
-![Pruebas de Flutter](capturas/pruebas_flutter.png)
+### Ciclo TDD: rojo a verde
+
+La captura roja reproduce de forma controlada el momento previo a implementar una regla; la verde corresponde a la suite final del repositorio.
+
+| 🔴 Prueba que solicita código faltante | 🟢 Implementación terminada |
+|---|---|
+| ![Fase roja](capturas/tdd_rojo_error.png) | ![Pruebas aprobadas](capturas/pruebas_flutter.png) |
 
 A new Flutter project.
 
