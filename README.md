@@ -73,6 +73,10 @@ Resultado final: **43 pruebas aprobadas**.
 
 La primera captura muestra la fase roja con una función faltante. La segunda muestra la suite completa terminada correctamente.
 
-| Fase roja | Fase verde |
-|---|---|
-| ![Error real en la terminal de VS Code](capturas/tdd_rojo_error.png) | ![43 pruebas aprobadas en la terminal de VS Code](capturas/pruebas_vscode.png) |
+### Fase roja
+
+![Error real en la terminal de VS Code](capturas/tdd_rojo_error.png)
+
+### Fase verde
+
+![43 pruebas aprobadas en la terminal de VS Code](capturas/pruebas_vscode.png)
